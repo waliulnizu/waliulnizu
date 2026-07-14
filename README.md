@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0e76a8&height=200&section=header&text=S.M.%20Waliul%20Hasan%20Nizu&fontSize=40&animation=fadeIn&desc=Full%20Stack%20Developer%20|%20Exploring%20Next.js%20%26%20Express.js&descSize=20&descAlignY=60&v=2026" width="100%" alt="S.M. Waliul Hasan Nizu - Full Stack Developer Banner"/>
+![Nizu Banner](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0E76A8&background=1C1B22&center=true&vCenter=true&width=900&height=150&lines=S.M.+Waliul+Hasan+Nizu;Full+Stack+Developer;Exploring+Next.js+and+Express.js)
 # Hi there, I'm S.M. Waliul Hasan Nizu! 👋
 ### Full Stack Developer
 

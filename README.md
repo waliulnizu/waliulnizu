@@ -1,3 +1,5 @@
+<img src="http://googleusercontent.com/image_generation_content/1" width="100%" alt="S.M. Waliul Hasan Nizu - Full Stack Developer Banner"/>
+
 # Hi there, I'm S.M. Waliul Hasan Nizu! 👋
 ### Full Stack Developer
 
@@ -5,8 +7,8 @@
 
 🚀 I am a Computer Science & Engineering graduate and an adaptable Full Stack Developer with 6 months of corporate experience as a Remote Web Development Intern at ICT Bangladesh. I specialize in building performance-optimized, scalable web applications and crafting pixel-perfect, highly responsive user interfaces. I love tackling complex states, secure authentication, and database workflows while maintaining clean and readable code architecture.
 
-- 🔭 **Current Focus:** Deep-diving into Next.js and optimizing full-stack application rendering.
-- 💻 **Latest Project:** Engineering "Artisano," a comprehensive digital marketplace featuring advanced role-based analytics dashboards.
+- 🔭 **Current Activities:** - I am exploring Next.js.
+  - I’m working on a tourism website.
 - ⚡ **Fun Fact:** I consistently leverage advanced AI tools to accelerate my development workflows and perform automated code reviews.
 
 ---
@@ -59,3 +61,7 @@
 </a>
 
 ---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=waliulnizu&label=Profile%20views&color=0e76a8&style=flat" alt="waliulnizu profile views" />
+</p>
